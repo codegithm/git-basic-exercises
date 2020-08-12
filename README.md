@@ -1,1 +1,1 @@
-I want to be a good developer. A really good one
+I want to be a good developer. The best
