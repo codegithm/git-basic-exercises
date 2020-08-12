@@ -1,0 +1,500 @@
+   21  ls
+   22  git clone https://github.com/siviwexakaza/RspoForumAPI.git
+   23  npm init
+   24  ls
+   25  git pull
+   26  git init
+   27  git branch
+   28  git status
+   29  git add .
+   30  npm install express
+   31  npm install mongoose
+   32  npm install cors
+   33  npm install body-parser
+   34  code .
+   35  node server.js
+   36  node server.js
+   37  git add .
+   38  git commit -m "Add server and connect to mongodb"
+   39  git push origin master
+   40  git branch -a
+   41  git push origin master
+   42  git push master
+   43  git push --set-upstream master master
+   44  git --help
+   45  git clone https://github.com/siviwexakaza/jsmachinelearning.git
+   46  cd jsmachinelearning
+   47  ls
+   48  code .
+   49  git status
+   50  git add .
+   51  git add .
+   52  git commit -m "Added files"
+   53  git push origin master
+   54  git add .
+   55  git commit -m "Object Classifier Added"
+   56  git push origin master
+   57  cd desktop
+   58  cd code
+   59  ls
+   60  cd asp net projects
+   61  tree
+   62  git
+   63  ls
+   64  git status
+   65  git status
+   66  git add .
+   67  git commit -m "Shipping feature"
+   68  git help
+   69  git clone https://github.com/siviwexakaza/CityBoard.git
+   70  cd cityboard
+   71  code .
+   72  ls
+   73  cd ionic app
+   74  git status
+   75  git add .
+   76  git commit -m "Added npm node packages"
+   77  git push origin master
+   78  git add .
+   79  git commit -m "Backend is now finished"
+   80  git push origin master
+   81  git add .
+   82  git commit -m "Fixed backend issue"
+   83  git push origin master
+   84  git status
+   85  git push origin master
+   86  git status
+   87  git add .
+   88  git commit -m "Desktop Chatscreen added"
+   89  git push origin master
+   90  git clone https://github.com/siviwexakaza/flutter.git
+   91  cd flutter
+   92  flutter
+   93  flutter create flutterapp
+   94  git status
+   95  git add .
+   96  git commit -m "Files uploaded"
+   97  git push origin master
+   98  flutter doctor
+   99  flutter run
+  100  ls
+  101  cd flutterapp
+  102  flutter run
+  103  flutter build apk
+  104  flutter doctor
+  105  git clone https://github.com/siviwexakaza/photoup.git
+  106  cd photoup
+  107  ionic create
+  108  ionic start photoup
+  109  ionic start photoup tabs
+  110  git add .
+  111  git commit -m "Imported files"
+  112  git push origin master
+  113  npm install ngx-autosize
+  114  npm install firebase @angular/fire
+  115  code .
+  116  ls
+  117  cd photoup
+  118  ls
+  119  npm install ngx-autosize
+  120  npm install firebase @angular/fire
+  121  ionic g page chatroomscreen
+  122  ionic g page chatscreen
+  123  ionic g page chatrooms
+  124  ionic g page chatlist
+  125  ionic g service api
+  126  ionic cordova plugin add cordova-sqlite-storage
+  127  npm install --save @ionic/storage
+  128  ionic g p login
+  129  ionic g page login
+  130  ionic g page register
+  131  ionic g page addphoto
+  132  npm i @ionic-native/camera@beta @ionic-native/file@beta @ionic-webview@beta
+  133  npm i @ionic-native/camera@beta @ionic-native/file@beta @ionic-native/ionic-webview@beta
+  134  ionic cordova plugin add cordova-plugin-camera
+  135  git clone https://github.com/siviwexakaza/ScrapeToAPI.git
+  136  cd scrapetoapi
+  137  npm init
+  138  ls
+  139  npm install express
+  140  npm install cors
+  141  npm install body-parser
+  142  npm install cheerio
+  143  code .
+  144  git add .
+  145  git commit -m "Initial"
+  146  git push origin master
+  147  node index
+  148  npm install request
+  149  node index
+  150  node index
+  151  node index
+  152  node index
+  153  node index
+  154  node index
+  155  node index
+  156  node index
+  157  node index
+  158  node index
+  159  node index
+  160  node index
+  161  node index
+  162  node index
+  163  git add .
+  164  git commit -m "Add PicknPay"
+  165  git push origin master
+  166  code .
+  167  ionic serve
+  168  git status
+  169  git add .
+  170  git commit -m "Add test beacon page"
+  171  git push -u origin interactions
+  172  git checkout interactions
+  173  git push origin interactions
+  174  git status
+  175  git commit -m "Add local alerts"
+  176  git add .
+  177  git commit -m "Add local alerts"
+  178  git push origin interactions
+  179  npm init
+  180  npm i mongoose
+  181  git status
+  182  git push origin master
+  183  git push origin master
+  184  git clone 
+  185  git add README.md
+  186  code .
+  187  touch README.md
+  188  git log
+  189  git add .
+  190  git status
+  191  git commit -m "initial commit"
+  192  git log
+  193  q
+  194  nano README.md
+  195  cat README.md
+  196  git commit -m "second commit"
+  197  git add .
+  198  git status
+  199  git commit -m "second commit"
+  200  nano README.md
+  201  git add .
+  202  git commit -m "third commit"
+  203  git log
+  204  q
+  205  git checkout 1ee2abbc245b4e0603059a89ba636d9d1ff006ea
+  206  cat README.md
+  207  git checkout master
+  208  cat README.md
+  209  git branch
+  210  milkshake-flavours
+  211  git checkout -b milkshake-flavours
+  212  git branch
+  213  git master
+  214  master
+  215  git branch master
+  216  git branch
+  217  nano milkshakes.md
+  218  git status
+  219  git add .
+  220  git commit -m "added initial flavours"
+  221  git log
+  222  git checkout master
+  223  git log
+  224  git checkout -b history
+  225  git log
+  226  history > history.txt
+  227  git add .
+  228  git commit -m git commit -m "added history"
+  229  git status
+  230  git commit -m "added history"
+  231  git checkout milkshake-flavours
+  232  git log
+  233  git nano milkshakes.md
+  234  nano milkshakes.md
+  235  git add .
+  236  git commit -m "random readme changes"
+  237  git checkout history
+  238  cat README.md
+  239  git add .
+  240  git commit -m "rewrote readme"
+  241  git log
+  242  git checkout
+  243  git branch
+  244  git checkout milkshake-flavours
+  245  git branch
+  246  git checkout history
+  247  git checkout milkshake-flavours
+  248  git log
+  249  git init
+  250  touch README.md
+  251  git log
+  252  git status
+  253  git add .
+  254  git commit -m "initial commit"
+  255  nano README.md
+  256  cat README.md
+  257  git status
+  258  git commit -m "second commit"
+  259  git add .
+  260  git commit -m "second commit"
+  261  nano README.md
+  262  git add .
+  263  git commit -m "third commit"
+  264  git log
+  265  git checkout  f28db198eb9fcaf242e8502afa13c9b89b8f8a2a
+  266  cat README.md
+  267  git checkout f28db198eb9fcaf242e8502afa13c9b89b8f8a2a
+  268  cat README.md
+  269  git checkout master
+  270  git branch
+  271  git checkout -b milkshake-flavours
+  272  nano milkshakes.md
+  273  git add .
+  274  git commit -m "added initial flavours"
+  275  git log
+  276  git checkout master
+  277  git log
+  278  git checkout -b history
+  279  history > history.txt
+  280  git add .
+  281  git commit -m "added history"
+  282  git log
+  283  git checkout milkshake-flavours
+  284  git log
+  285  nano milkshakes.md
+  286  git add .
+  287  git commit -m "random readme changes"
+  288  git checkout history
+  289  rm README.md
+  290  README.md
+  291  git status
+  292  git add .
+  293  git commit -m "rewrote readme"
+  294  git checkout master
+  295  git merge milkshake-flavours
+  296  ls
+  297  git log
+  298  git checkout history
+  299  git log
+  300  git checkout milkshake-flavours
+  301  git log
+  302  git checkout history
+  303  git merge master
+  304  git log
+  305  git merge master
+  306  git remote add origin https://github.com/codegithm/git-basic-exercises.git
+  307  git push -u origin master
+  308  cd ../
+  309  git clone https://github.com/Umuzi-org/tech-department.git
+  310  cd tech-department
+  311  git branch -a
+  312  ls
+  313  git checkout project/git-basic-exercises
+  314  git checkout project
+  315  git branch
+  316  git checkout git-basic-exercises
+  317  git branch -a
+  318  git checkout project/git-basic-exercises
+  319  git checkout desktop/git-basic-exercises
+  320  git checkout Desktop/git-basic-exercises
+  321  git checkout remotes
+  322  cd   remotes/origin/Animals2
+  323    remotes/origin/Big_O
+  324  cd project/git-basic-exercises
+  325  cd ../
+  326  cd git-basic-exercises
+  327  cd ../
+  328  ls
+  329  cd git-basic-exercises
+  330  git remove -v
+  331  git remote -v
+  332  cd ../
+  333  ls
+  334  cd tech-department
+  335  git checkout -b project/git-basic-exercises
+  336  git log
+  337  cd ../
+  338  cd git-basic-exercises
+  339  git checkout master
+  340  git log
+  341  mkdir this-will-be-another-repo
+  342  cd this-will-be-another-repo
+  343  git init
+  344  touch README.md
+  345  git add .
+  346  git status
+  347  git commit -m "Read me"
+  348  cd ./
+  349  cd../
+  350  cd ../
+  351  git log
+  352  touch ignore-me.db
+  353  git status
+  354  nano .gitignore
+  355  git status
+  356  mkdir large-directory-that-should-be-local-only
+  357  cd large-directory-that-should-be-local-only
+  358  nano .gitignore
+  359  git status
+  360  git add .
+  361  git clone https://github.com/Umuzi-org/Ntandoyenkosi-Xakaza-429-bootcamp-writing-assignment-.git
+  362  cd Ntandoyenkosi-Xakaza-429-bootcamp-writing-assignment-/
+  363  git checkout
+  364  git pull origin master
+  365  code .
+  366  git status
+  367  git add .
+  368  git commit -m "1st Question"
+  369  git add myHistory
+  370  git add myHistory.md
+  371  git status
+  372  git commit -m "Edit on 1st Question"
+  373  git status
+  374  git status
+  375  git add myHistory
+  376  git add myHistory.md
+  377  git status
+  378  git commit -m "Edit on 1st Question"
+  379  git add .
+  380  git add .
+  381  git commit -m "2nd Question^C
+  382  git commit -m "2nd Question"
+  383  git status
+  384  git commit -m "2nd Qestion"
+  385  git log
+  386  git clone https://github.com/Umuzi-org/Ntandoyenkosi-Xakaza-429-bootcamp-writing-assignment-.git
+  387  git checkout master
+  388  cd Ntandoyenkosi-Xakaza-429-bootcamp-writing-assignment-/
+  389  git checkout master
+  390  git checkout -b Bootcamp Writing Assignment
+  391  git checkout -b Bootcamp_Writing_Assignment
+  392  code .
+  393  git add .
+  394  git commit -m "1st Question"
+  395  git push origin Bootcamp_Writing_Assignment
+  396  git add whyIWantToBeACoder.md 
+  397  git commit -m "2nd Qestion"
+  398  git push origin Bootcamp_Writing_Assignment
+  399  git status
+  400  git add freeTime.md 
+  401  git commit -m "3rd Question"
+  402  git push origin Bootcamp_Writing_Assignment
+  403  git add relevantExperience.md 
+  404  git commit -m "4th Question"
+  405  git push origin Bootcamp_Writing_Assignment
+  406  git log
+  407  git status
+  408  git add whyIWillSucceed.md
+  409  git commit -m "5th Question"
+  410  git push origin Bootcamp_Writing_Assignment
+  411  git log
+  412  git add mightNotSucceed.md 
+  413  git commit -m "6th Question"
+  414  git push origin Bootcamp_Writing_Assignment
+  415  git status
+  416  git add myRoutine.md 
+  417  git commit -m "7th Question"
+  418  git push origin Bootcamp_Writing_Assignment
+  419  git add myFuture.md 
+  420  git commit -m "8th Question"
+  421  git push origin Bootcamp_Writing_Assignment
+  422  git pull
+  423  git checkout master
+  424  git pull
+  425  git checkout Bootcamp_Writing_Assignment 
+  426  git pull request
+  427  git log
+  428  git init
+  429  git status
+  430  touch README.md
+  431  git status
+  432  git log
+  433  git add .
+  434  git commit -m "initial commit"
+  435  nano README.md
+  436  cat README.md
+  437  git add .
+  438  git commit -m "second commit"
+  439  nano README.md
+  440  git add .
+  441  git commit -m "third commit"
+  442  git log
+  443  git checkout 4e08c7f1d1299d81a7dea2a799d0cf48a23a8959
+  444  cat README.md
+  445  git checkout master
+  446  cat README.md
+  447  git branch
+  448  git checkout -b milkshake-flavours
+  449  nano milkshakes.md
+  450  git status
+  451  git add milkshakes.md 
+  452  git commit -m "added initial flavours"
+  453  git log
+  454  git checkout master
+  455  git checkout -b history
+  456  git log
+  457  history > history.txt
+  458  git commit -m "added history"
+  459  git log
+  460  git add history.txt 
+  461  git commit -m "added history"
+  462  git log
+  463  git checkout milkshake-flavours
+  464  git log
+  465  nano README.md
+  466  git status
+  467  git add README.md 
+  468  git commit -m "random readme changes"
+  469  git checkout history
+  470  cat README.md
+  471  rm README.md
+  472  echo "booya" > README.md
+  473  git status
+  474  cat README.md
+  475  git add README.md 
+  476  git commit -m "rewrote readme"
+  477  git checkout master
+  478  ls
+  479  git log
+  480  git checkout milkshake-flavours 
+  481  ls
+  482  git log
+  483  git checkout history
+  484  ls
+  485  git log
+  486  git checkout master
+  487  git merge milkshake-flavours
+  488  ls
+  489  git log
+  490  git merge history
+  491  git log
+  492  git status
+  493  ls
+  494  git checkout history
+  495  git merge history
+  496  git add README.md 
+  497  git checkout history
+  498  git status
+  499  git init
+  500  touch README.md
+  501  git add
+  502  git add .
+  503  git commit -m "initial commit"
+  504  nano README.md
+  505  git status
+  506  git add README.md 
+  507  git commit -m "second commit"
+  508  nano README.md
+  509  git add .
+  510  git commit -m "third commit"
+  511  git log
+  512  cat README.md
+  513  git checkout -b milkshake-flavours
+  514  nano milkshakes.md
+  515  git status
+  516  git add milkshakes.md 
+  517  git commit -m "added initial flavours"
+  518  git checkout master
+  519  git checkout -b history
+  520  history > history.txt
